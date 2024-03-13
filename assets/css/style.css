@@ -121,6 +121,10 @@ html {
   .vertical-center {
     align-self: center;
   }
+
+  nav {
+        padding: 1rem;
+  }
   
   nav>a {
     color: white;
