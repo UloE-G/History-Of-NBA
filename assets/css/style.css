@@ -58,6 +58,10 @@ p {
   border-bottom: 10px solid #f3c01a;
 }
 
+.lback2{
+  background: url('https://fadeawayworld.net/.image/t_share/MTk2MjQ3NDE2Mjg5MTA5Mjk2/bron-time.jpg')
+}
+
 #jordan {
   background-color: black;
   position: relative;
@@ -74,6 +78,10 @@ p {
 
 .jback {
   background: url('https://media.cnn.com/api/v1/images/stellar/prod/210616193554-01-michael-jordan-athlete-activism.jpg?q=w_3000,h_1688,x_0,y_0,c_fill') center / cover no-repeat fixed;
+}
+
+.jback2{
+  background: url('https://res.cloudinary.com/ybmedia/image/upload/c_crop,h_675,w_1200,x_0,y_6/c_fill,f_auto,h_900,q_auto,w_1600/v1/m/d/9/d9e35e1fba3d317eb7a4c3bb926a029c79dcd2e9/michael-jordan-career-retrospective.jpg') 
 }
 
 
@@ -97,7 +105,15 @@ p {
   border-bottom: 10px solid #ffe308;
 }
 
-form{
+.cback2{
+  background: url('https://cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SJWSD6FRWMTZCOVPFYOVD7GN7M.jpg') center / cover no-repeat fixed;
+}
+
+.nback{
+  background: url('https://upload.wikimedia.org/wikipedia/en/5/5f/Spfldlogo.png') center / cover no-repeat fixed;
+}
+
+form {
   width: 700px;
   padding: 25px;
   border-radius: 8px;
@@ -185,6 +201,11 @@ nav>a:hover {
   border-radius: 50%;
 }
 
+.container {
+  width: 98%;
+  margin: 1rem;
+}
+
 fieldset {
   border: none;
   margin-top: 20px;
@@ -237,6 +258,10 @@ label {
   border: 10px solid blue;
 }
 
+.background-colorb2 {
+  background-color: #840029;
+}
+
 span {
   color: gold;
   font-style: italic;
@@ -254,4 +279,16 @@ h3 {
 
 .color-white {
   color: white
+}
+
+.color-gold {
+  color: #f3c01a;
+}
+
+.color-red {
+  color: red;
+}
+
+.color-yellow{
+  color: #ffe308
 }
