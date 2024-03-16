@@ -160,6 +160,11 @@ nav>a:hover {
   color: blue;
 }
 
+a>img{
+  margin:10px
+  
+}
+
 .box {
   width: 33%;
   margin: 1rem;
@@ -199,6 +204,10 @@ nav>a:hover {
   width: 300px;
   border: 10px solid red;
   border-radius: 50%;
+}
+
+.margin10px {
+  margin: 10px;
 }
 
 .container {
