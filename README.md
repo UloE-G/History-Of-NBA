@@ -28,4 +28,22 @@ This section goes over the different parts of this project. An explaination will
   -This section is about the creation of the NBA.
 
   -It mentions the early days of the NBA and the challenges it faced.
+
+![Start](assets/images/start.png)
   
+- __Rise Section__
+  
+  -This section discusses the rise of the NBA 
+  
+  -It talkes about the move and some of the players that helped make the NBA a sustainable leauge.
+
+![Rise](assets/images/rise.png)
+
+- __People Section__
+
+  -This section shows users the history of som of the NBA most famous and important people.
+
+  -It describes how they got there and the legacies they have achieved
+
+![People](assets/images/peoples.png)
+
