@@ -162,7 +162,7 @@ nav>a:hover {
 
 a>img{
   margin:10px
-  
+  border-radius: 23%;
 }
 
 .box {
@@ -208,7 +208,6 @@ a>img{
 
 .margin10px {
   margin: 10px;
-  border-radius: 23%;
 }
 
 .container {
