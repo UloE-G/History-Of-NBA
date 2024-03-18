@@ -130,6 +130,10 @@ p {
   border-bottom: 10px solid red;
 }
 
+.sterback2{
+  background: url('https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Los_Angeles_Clippers_%282015%29.svg/1200px-Los_Angeles_Clippers_%282015%29.svg.png') center / cover no-repeat fixed;
+}
+
 #dress {
   background-color: grey;
   position: relative;
@@ -163,6 +167,10 @@ p {
   background: url('https://phantom-marca.unidadeditorial.es/183be18da3022d62d7242cfd743d6f8d/resize/1200/f/webp/assets/multimedia/imagenes/2022/01/07/16415111831199.jpg') center / cover no-repeat fixed;
   background-color: white;
   border-top: 10px solid blue;
+}
+
+.gback2{
+  background: url('https://media.gq.com/photos/55829766e52bc4b477a9ae38/master/pass/blogs-the-q-GilDribbles.jpg') center / cover no-repeat fixed;
 }
 
 .igilbert {
@@ -332,6 +340,10 @@ label {
 
 .background-colorb2 {
   background-color: #840029;
+}
+
+.background-white {
+  background-color: white;
 }
 
 span {
