@@ -39,6 +39,14 @@ This section goes over the different parts of this project. An explaination will
 
 ![Rise](assets/images/rise.png)
 
+- __Controversy Section__
+  
+  -This section talks about some controversial moments that happened in the NBA.
+
+  -It describes what happened and how the NBA or the law solved them
+
+![Controversy]
+
 - __People Section__
 
   -This section shows users the history of som of the NBA most famous and important people.
