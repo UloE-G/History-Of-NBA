@@ -45,7 +45,7 @@ This section goes over the different parts of this project. An explaination will
 
   -It describes what happened and how the NBA or the law solved them
 
-![Controversy]
+![Controversy](assets/images/controversy.png)
 
 - __People Section__
 
@@ -55,3 +55,10 @@ This section goes over the different parts of this project. An explaination will
 
 ![People](assets/images/peoples.png)
 
+- __Video Section__
+
+  -This section contains videos of moments and people mentioned in the controversy page and people page.
+
+  -It adds extra information on the situations and showcases their talents.
+
+![Videos](assets/images/videos.png)
