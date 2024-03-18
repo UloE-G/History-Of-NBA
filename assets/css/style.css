@@ -109,6 +109,68 @@ p {
   background: url('https://cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SJWSD6FRWMTZCOVPFYOVD7GN7M.jpg') center / cover no-repeat fixed;
 }
 
+#sterling {
+  background-color: red;
+  position: relative;
+  left: 15%;
+  border-radius: 4%;
+  z-index: 2;
+}
+
+.isterling {
+  border: 30px solid red;
+  z-index: 1;
+  float: right;
+}
+
+.sterback {
+  background: url('https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Los_Angeles_Clippers_%282015%29.svg/1200px-Los_Angeles_Clippers_%282015%29.svg.png') center / cover no-repeat fixed;
+  background-color: white;
+  border-top: 10px solid red;
+  border-bottom: 10px solid red;
+}
+
+#dress {
+  background-color: grey;
+  position: relative;
+  left: 15%;
+  border-radius: 4%;
+  z-index: 2;
+}
+
+.idress {
+  border: 30px solid grey;
+  z-index: 1;
+  float: right;
+}
+
+.dressback {
+  background: url('https://www.voaksportswear.com/site/wp-content/uploads/2019/08/kobe.jpg') center / cover no-repeat fixed;
+  background-color: white;
+  border-top: 10px solid grey;
+  border-bottom: 10px solid grey;
+}
+
+#gilbert{
+  background-color: blue;
+  position: relative;
+  left: 15%;
+  border-radius: 4%;
+  z-index: 2;
+}
+
+.gback {
+  background: url('https://phantom-marca.unidadeditorial.es/183be18da3022d62d7242cfd743d6f8d/resize/1200/f/webp/assets/multimedia/imagenes/2022/01/07/16415111831199.jpg') center / cover no-repeat fixed;
+  background-color: white;
+  border-top: 10px solid blue;
+}
+
+.igilbert {
+  border: 30px solid blue;
+  z-index: 1;
+  float: right;
+}
+
 .nback{
   background: url('https://upload.wikimedia.org/wikipedia/en/5/5f/Spfldlogo.png') center / cover no-repeat fixed;
 }
@@ -161,8 +223,8 @@ nav>a:hover {
 }
 
 a>img{
-  margin:10px;
-  border-radius: 23%;
+  margin:10px
+  
 }
 
 .box {
@@ -208,6 +270,7 @@ a>img{
 
 .margin10px {
   margin: 10px;
+  text-align: justify;
 }
 
 .container {
