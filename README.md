@@ -6,7 +6,7 @@ History of the NBA is a website for people who are intrested in the NBA. This si
 ## Features
 This section goes over the different parts of this project. An explaination will be given of what the features provides the user.
 
-## Existing Features
+### Existing Features
 - __Navigation Bar__
 
   -This is identical on all six pages and includes links to the Beginning, Start, Rise, Players, Video and Review pages.
@@ -62,3 +62,24 @@ This section goes over the different parts of this project. An explaination will
   -It adds extra information on the situations and showcases their talents.
 
 ![Videos](assets/images/videos.png)
+
+- __Review Section__
+
+  -This section gives the user the ability to critic the webiste after going through it.
+
+  -It allows them to state everything they liked and dislike whilst on this website.
+
+  -It also give them the ability to give there own opinions on how this website can be improved.
+
+![Review]
+
+- __Footer__
+  
+  -The footer section includes links to various social media platforms the NBA is apart of.
+
+  -This is to give the user easier and quicker access to some of the platforms the NBA is apart of.
+
+![Footer](assets/images/footer.png)
+
+## Testing
+
