@@ -230,10 +230,10 @@ nav>a:hover {
   color: blue;
 }
 
-a>img{
+a>img {
   margin:10px;
   border-radius: 24%;
-  width: 3%;
+  width: 4%;
 }
 
 .box {
