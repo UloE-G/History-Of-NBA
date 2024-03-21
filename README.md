@@ -83,3 +83,19 @@ This section goes over the different parts of this project. An explaination will
 
 ## Testing
 
+- I tested to see if the website would work on Google Chrome, Microsoft Edge, Firefox and using Chrome Dev Tools, simulated different device screen widths and lenghts.
+
+- The website was able to function as intended and that the it was responsive.
+
+- The navigation bar, header, titles and text were all readable and easy to understand.
+
+- The review form works: requires entries in the required field, only accept an email in the email field and submit and rest button works.
+
+### Validator Testing
+
+- HTML
+
+
+
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator)
