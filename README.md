@@ -99,3 +99,30 @@ This section goes over the different parts of this project. An explaination will
 
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator)
+
+- Accesibility
+  - I can confirm that the colors and fonts are easy to read and accesible by running it through lighthouse in devtools.
+
+![Lighthouse](assets/images/accesiblity.png)
+
+
+  ## Deployment
+
+  - The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+
+The live link can be found here - https://uloe-g.github.io/History-Of-NBA/
+
+## Credits
+
+### Content
+
+- The code to create the form was taken from [here](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRR101+2021_T1/courseware/9645be8635124d76b35692f1f1f6b753/2c4f82a9ef174830aa83ff2cf10f4bc7/).
+
+- How to embed the Youtube video onto the website was found [here](https://www.youtube.com/watch?v=ly36kn0ug4k&t=86s).
+
+### Media
+
+The image in the header was taken from [Vecteezy](https://www.vecteezy.com/).
