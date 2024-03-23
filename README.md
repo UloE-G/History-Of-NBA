@@ -126,3 +126,27 @@ The live link can be found here - https://uloe-g.github.io/History-Of-NBA/
 ### Media
 
 The image in the header was taken from [Vecteezy](https://www.vecteezy.com/).
+
+The image of James Naismith and the people playing basketball was found on the Springfield College [website](https://springfield.edu/where-basketball-was-invented-the-birthplace-of-basketball).
+
+The nba players picture was found [here](https://sports.yahoo.com/77-greatest-nba-players-ever-140126956.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACOy1jrvvTn0uL3VrXilZvxbryaF5zpll7IHwP5WLWTdufuszzLX0BwIPXhkw2eZ86Tn1GkgsfgMLFkZUXDSkEu9ql5On8MbIxXGI0ij03J_klJHEPL4DPgqqsc_w0jHaFwYW4YhP8TU92rlBt0PGmEnpP9cGqpOzLtbYf29-UMc).
+
+The image of Donald Sterling was found on the [Time Magazine](https://time.com/107562/donald-sterling-cover-up/). 
+
+The background image was found [here](https://en.wikipedia.org/wiki/Los_Angeles_Clippers).
+
+The David Stern image was found on [IMDb](https://www.imdb.com/name/nm0827668/).
+
+The background behind the dress code section was found on [voaksportswear.com](https://www.voaksportswear.com/).
+
+Gildbert Arenas image was found [here](https://www.nba.com/magic/news/news_arenas_121810.html)
+
+Gilbert Arenas background image was taken from [Marca](https://www.marca.com/en/basketball/nba/washington-wizards/2022/01/07/61d89c6d22601de11e8b45c4.html).
+
+Adam Silver image was found on [penbaypilot.com](https://www.penbaypilot.com/article/adam-silver-perhaps-greatest-commissioner-nba-and-all-sports-history/36113).
+
+Adam silver background image was taken from [CNN](https://edition.cnn.com/2022/11/11/sport/kyrie-irving-adam-silver-meeting-antisemitic-comments-nba-spt/index.html).
+
+Lebron James image was found on [Hoopshype.com](https://hoopshype.com/2024/02/24/lebron-james-on-victor-wembanyama-after-5x5-game-he-has-no-ceiling/).
+
+Lebron James background image was taken from [Fadeawayworld.net](https://fadeawayworld.net/lebron-james-availability-by-percentage-of-games-played-for-each-team-from-95-to-73).
