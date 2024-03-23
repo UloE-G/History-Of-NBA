@@ -22,16 +22,14 @@ p {
 #asilver {
   background-color: red;
   position: relative;
-  left: 15%;
   border-radius: 4%;
   z-index: 2;
 }
 
 .isliver {
   border: 30px solid blue;
-  z-index: 1;
-  margin-top: 1rem;
-  float: right;
+  display: block;
+  margin: auto;
 }
 
 .sback {
@@ -43,15 +41,13 @@ p {
 #lebron {
   background-color: purple;
   position: relative;
-  left: 15%;
   border-radius: 4%;
-  z-index: 2;
 }
 
 .ilebron {
   border: 30px solid #f3c01a;
-  z-index: 1;
-  float: right;
+  display: block;
+  margin: auto;
 }
 
 .lback {
@@ -66,15 +62,13 @@ p {
 #jordan {
   background-color: black;
   position: relative;
-  left: 15%;
   border-radius: 4%;
-  z-index: 2;
 }
 
 .ijordan {
   border: 30px solid #e20505;
-  z-index: 1;
-  float: right;
+  display: block;
+  margin: auto;
 }
 
 .jback {
@@ -89,15 +83,13 @@ p {
 #curry {
   background-color: #2962c7;
   position: relative;
-  left: 15%;
   border-radius: 4%;
-  z-index: 2;
 }
 
 .icurry {
   border: 30px solid #ffe308;
-  z-index: 1;
-  float: right;
+  display: block;
+  margin: auto;
 }
 
 .cback {
@@ -113,15 +105,14 @@ p {
 #sterling {
   background-color: red;
   position: relative;
-  left: 15%;
   border-radius: 4%;
   z-index: 2;
 }
 
 .isterling {
   border: 30px solid red;
-  z-index: 1;
-  float: right;
+  display: block;
+  margin: auto;
 }
 
 .sterback {
@@ -138,15 +129,14 @@ p {
 #dress {
   background-color: grey;
   position: relative;
-  left: 15%;
   border-radius: 4%;
   z-index: 2;
 }
 
 .idress {
   border: 30px solid grey;
-  z-index: 1;
-  float: right;
+  display: block;
+  margin: auto;
 }
 
 .dressback {
@@ -159,7 +149,6 @@ p {
 #gilbert{
   background-color: blue;
   position: relative;
-  left: 15%;
   border-radius: 4%;
   z-index: 2;
 }
@@ -176,8 +165,8 @@ p {
 
 .igilbert {
   border: 30px solid blue;
-  z-index: 1;
-  float: right;
+  display: block;
+  margin: auto;
 }
 
 .nback{
@@ -238,7 +227,7 @@ a>img {
 }
 
 .box {
-  width: 33%;
+  /* width: 33%; */
   margin: 1rem;
   display: inline-block;
 }
@@ -307,6 +296,16 @@ legend {
 
 label {
   margin: 10px 15px 5px 0;
+}
+
+input[type=submit] {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding: 0.75rem;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
 }
 
 .text-uppercase {
