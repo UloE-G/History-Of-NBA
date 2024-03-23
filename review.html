@@ -14,6 +14,7 @@
   <title>Review</title>
 </head>
 
+<!-- Review Title -->
 <body class="background-brown">
   <header class="text-center page-header background-blue">
     <div class="vertical-center">
@@ -24,6 +25,7 @@
     </div>
   </header>
 
+  <!-- Navigation Bar -->
   <nav class="text-center text-uppercase background-red">
     <a href="index.html#beginning" aria-label="Go to beginnings section">Beginnings</a>
     <a href="index.html#start" aria-label="Go to start section">Start</a>
@@ -34,19 +36,27 @@
     <a href="review.html" aria-label="Go to review section">Review</a>
   </nav>
 
+  <!-- Description -->
+  <section class="text-center background-blue border-blue color-white">
+    <h2>Thank you for visiting, can you please write a review if you have the time</h2>
+  </section>
   
   <form action="https://formdump.codeinstitute.net" method="POST">
+    <!-- Details -->
     <fieldset>
       <legend>Details</legend>
       <div class="flex gap-20">
+        <!-- Name -->
         <div>
           <label for="name-field" class="block-label">Name</label>
           <input id="name-field" type="text" name="full_name" placeholder="Your name" required>
         </div>
+        <!-- Email -->
         <div>
           <label for="email-field" class="block-label">Email</label>
           <input id="email-field" type="email" name="email" placeholder="Your email" required>
         </div>
+        <!-- Age -->
         <div>
           <label for="age" class="block-label">Age</label>
           <select id="age" name="age" required>
@@ -61,18 +71,22 @@
       </div>
     </fieldset>
 
+    <!-- Review -->
     <fieldset>
       <legend>Review</legend>
+      <!-- Impressions -->
       <div>
         <label for="review" class="block-label">What about the website impressed you?</label>
         <br>
         <textarea id="review" rows="4" cols="87" name="review"></textarea>
       </div>
+      <!-- Improvements -->
       <div>
         <label for="improve" class="block-label">What about the website can be improved in you opinon?</label>
         <br>
         <textarea id="improve" rows="4" cols="87" name="improve"></textarea>
       </div>
+      <!-- Opinions -->
       <div>
         <label for="opinion" class="block-label">Overall opinon of the website?</label>
         <br>
@@ -80,10 +94,13 @@
       </div>
     </fieldset>
 
+    <!-- Submit Button -->
     <input type="submit" class="block-label" value="Submit Review">
+    <!-- Reset Button -->
     <input type="reset" value="Reset Form">
   </form>
   
+  <!-- Footer Section -->
   <footer class=" text-uppercase">
     <a href="https://www.facebook.com/nba" target="_blank" rel="noopener"
       aria-label="Find us on Facebook (link opens in a new tab)">
