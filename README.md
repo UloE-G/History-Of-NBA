@@ -94,11 +94,10 @@ This section goes over the different parts of this project. An explaination will
 ### Validator Testing
 
 - HTML
-
-
-
+  - No errors were found on all pages except for the video section on [(Jigsaw) validator](https://validator.w3.org/).
+  
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator)
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator).
 
 - Accesibility
   - I can confirm that the colors and fonts are easy to read and accesible by running it through lighthouse in devtools.
@@ -122,6 +121,8 @@ The live link can be found here - https://uloe-g.github.io/History-Of-NBA/
 - The code to create the form was taken from [here](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRR101+2021_T1/courseware/9645be8635124d76b35692f1f1f6b753/2c4f82a9ef174830aa83ff2cf10f4bc7/).
 
 - How to embed the Youtube video onto the website was found [here](https://www.youtube.com/watch?v=ly36kn0ug4k&t=86s).
+
+- How I understood file paths was gotten [here](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRR101+2021_T1/courseware/9645be8635124d76b35692f1f1f6b753/493518353382439c9f0d34eba6a4f634/).
 
 ### Media
 
