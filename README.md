@@ -71,7 +71,7 @@ This section goes over the different parts of this project. An explaination will
 
   -It also give them the ability to give there own opinions on how this website can be improved.
 
-![Review]
+![Review](assets/images/review.png)
 
 - __Footer__
   
