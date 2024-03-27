@@ -151,3 +151,13 @@ Adam silver background image was taken from [CNN](https://edition.cnn.com/2022/1
 Lebron James image was found on [Hoopshype.com](https://hoopshype.com/2024/02/24/lebron-james-on-victor-wembanyama-after-5x5-game-he-has-no-ceiling/).
 
 Lebron James background image was taken from [Fadeawayworld.net](https://fadeawayworld.net/lebron-james-availability-by-percentage-of-games-played-for-each-team-from-95-to-73).
+
+The footer images were obatined as follows:
+ 
+  - Facebook - [Microsoft Store](https://apps.microsoft.com/detail/9wzdncrfj2wl?hl=en-US&gl=US)
+
+  - Instagram - [Wikipedia](https://en.wikipedia.org/wiki/Instagram)
+
+  - X(twitter) - [Business of Apps](https://www.businessofapps.com/news/x-officially-launches-its-ads-revenue-sharing-platform-for-content-creators/)
+
+  - Tiktok - [Pixabay](https://pixabay.com/vectors/tiktok-tiktok-logo-tiktok-button-7002866/)
