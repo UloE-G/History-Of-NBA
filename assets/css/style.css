@@ -8,6 +8,7 @@ html {
   padding: 0;
 }
 
+/* For the top of the page */
 header {
   color: white;
   display: flex;
@@ -20,6 +21,7 @@ p {
   padding: 10px;
 }
 
+/* Adam silver text-area section */
 #asilver {
   background-color: red;
   position: relative;
@@ -27,82 +29,96 @@ p {
   z-index: 2;
 }
 
+/* Adam silver image in people section */
 .isliver {
   border: 30px solid blue;
   display: block;
   margin: auto;
 }
 
+/* Adam silver background image in people section */
 .sback {
   background: url('https://media.cnn.com/api/v1/images/stellar/prod/221111005636-01-nba-commissioner-adam-silver.jpg?c=original') center / cover no-repeat fixed;
   border-top: 10px solid blue;
   border-bottom: 10px solid blue;
 }
 
+/* Lebron James text-area in people section*/
 #lebron {
   background-color: purple;
   position: relative;
   border-radius: 4%;
 }
 
+/* Lebron James image area in people section */
 .ilebron {
   border: 30px solid #f3c01a;
   display: block;
   margin: auto;
 }
 
+/* Lebron James background image in people section */
 .lback {
   background: url('https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcShDLk1Ki2O6UyAN82d6i_JBbEHMMwVmCcXepAO2HNWEolxfPbrlPVKzsufM769B8tL-HejLrEKcLqzWYc') center / cover no-repeat fixed;
   border-bottom: 10px solid #f3c01a;
 }
 
+/* Lebron James background image in videos section */
 .lback2{
   background: url('https://fadeawayworld.net/.image/t_share/MTk2MjQ3NDE2Mjg5MTA5Mjk2/bron-time.jpg')
 }
 
+/* Micheal Jordan text-area in people section */
 #jordan {
   background-color: black;
   position: relative;
   border-radius: 4%;
 }
 
+/* Micheal Jordan image area in people section */
 .ijordan {
   border: 30px solid #e20505;
   display: block;
   margin: auto;
 }
 
+/* Micheal Jordan background image in people section */
 .jback {
   background: url('https://media.cnn.com/api/v1/images/stellar/prod/210616193554-01-michael-jordan-athlete-activism.jpg?q=w_3000,h_1688,x_0,y_0,c_fill') center / cover no-repeat fixed;
 }
 
+/* Micheal Jordan background image for videos section */
 .jback2{
   background: url('https://res.cloudinary.com/ybmedia/image/upload/c_crop,h_675,w_1200,x_0,y_6/c_fill,f_auto,h_900,q_auto,w_1600/v1/m/d/9/d9e35e1fba3d317eb7a4c3bb926a029c79dcd2e9/michael-jordan-career-retrospective.jpg') 
 }
 
-
+/* Steph Curry text-area in people section */
 #curry {
   background-color: #2962c7;
   position: relative;
   border-radius: 4%;
 }
 
+/* Steph Curry image area in people section */
 .icurry {
   border: 30px solid #ffe308;
   display: block;
   margin: auto;
 }
 
+/* Steph curry background image in people section */
 .cback {
   background: url('https://dims.apnews.com/dims4/default/7e01c58/2147483647/strip/true/crop/5632x3755+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F03%2Fac%2F28f345a30542b296b119976cf475%2F9818ccc9cf8a4e768a9f132937b6c631') center / cover no-repeat fixed;
   border-top: 10px solid #ffe308;
   border-bottom: 10px solid #ffe308;
 }
 
+/* Steph curry background image in videos section */
 .cback2{
   background: url('https://cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SJWSD6FRWMTZCOVPFYOVD7GN7M.jpg') center / cover no-repeat fixed;
 }
 
+/* Donald Sterling text-area in controversy section */
 #sterling {
   background-color: red;
   position: relative;
@@ -110,12 +126,14 @@ p {
   z-index: 2;
 }
 
+/* Donald Sterling image area in controversy section */
 .isterling {
   border: 30px solid red;
   display: block;
   margin: auto;
 }
 
+/* Donald Sterling background image in controversy section */
 .sterback {
   background: url('https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Los_Angeles_Clippers_%282015%29.svg/1200px-Los_Angeles_Clippers_%282015%29.svg.png') center / cover no-repeat fixed;
   background-color: white;
@@ -123,10 +141,12 @@ p {
   border-bottom: 10px solid red;
 }
 
+/* Background image for Donald Sterling ban in videos section */
 .sterback2{
   background: url('https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Los_Angeles_Clippers_%282015%29.svg/1200px-Los_Angeles_Clippers_%282015%29.svg.png') center / cover no-repeat fixed;
 }
 
+/* Dress code text-area in controversy section */
 #dress {
   background-color: grey;
   position: relative;
@@ -134,12 +154,14 @@ p {
   z-index: 2;
 }
 
+/* Image for dress code section in controversy section */
 .idress {
   border: 30px solid grey;
   display: block;
   margin: auto;
 }
 
+/* Dress code background in controversy section */
 .dressback {
   background: url('https://www.voaksportswear.com/site/wp-content/uploads/2019/08/kobe.jpg') center / cover no-repeat fixed;
   background-color: white;
@@ -147,6 +169,7 @@ p {
   border-bottom: 10px solid grey;
 }
 
+/* Gun incident text-area in controversy section */
 #gilbert{
   background-color: blue;
   position: relative;
@@ -154,26 +177,31 @@ p {
   z-index: 2;
 }
 
+/* Gun incident background image in controversy section */
 .gback {
   background: url('https://phantom-marca.unidadeditorial.es/183be18da3022d62d7242cfd743d6f8d/resize/1200/f/webp/assets/multimedia/imagenes/2022/01/07/16415111831199.jpg') center / cover no-repeat fixed;
   background-color: white;
   border-top: 10px solid blue;
 }
 
+/* Gun incident background image in videos section */
 .gback2{
   background: url('https://media.gq.com/photos/55829766e52bc4b477a9ae38/master/pass/blogs-the-q-GilDribbles.jpg') center / cover no-repeat fixed;
 }
 
+/* Gun incident image in controversy section */
 .igilbert {
   border: 30px solid blue;
   display: block;
   margin: auto;
 }
 
+/* James Naismith video */
 .nback{
   background: url('https://upload.wikimedia.org/wikipedia/en/5/5f/Spfldlogo.png') center / cover no-repeat fixed;
 }
 
+/* Controls the width and height of the videos */
 .widhei {
   width: 100%;
   height: 100%;
@@ -181,6 +209,7 @@ p {
   bottom: 2vh;
 }
 
+/* Form container in review */
 form {
   width: 700px;
   padding: 25px;
@@ -189,6 +218,7 @@ form {
   background-color: white;
 }
 
+/* Thank you image at the bottom of the form in review */
 .thanks {
   text-align: center;
   height: 220px;
@@ -196,12 +226,12 @@ form {
   top: 10vh;
 }
 
-
 footer {
   background-color: blue;
   color: white;
   text-align: center;
 }
+
 
 footer>a {
   color: white;
@@ -241,12 +271,13 @@ a>img {
   width: 4%;
 }
 
+/* How the text-area in people and controversy is contained */
 .box {
   margin: 1rem;
   display: inline-block;
 }
 
-
+/* Used to put images to the right of texts in index.html */
 .pictures {
   float: right;
   height: 20%;
@@ -255,6 +286,7 @@ a>img {
   justify-content: end;
 }
 
+/* Used to put images to the left of texts in index.html */
 .pictures2 {
   float: left;
   height: 20%;
@@ -263,6 +295,7 @@ a>img {
   justify-content: start;
 }
 
+/* Used for picture size and color */
 .pictures img {
   height: 300px;
   width: 300px;
@@ -270,6 +303,7 @@ a>img {
   border-radius: 50%;
 }
 
+/* Used for picture size and color */
 .pictures2 img {
   height: 300px;
   width: 300px;
@@ -277,7 +311,7 @@ a>img {
   border-radius: 50%;
 }
 
-
+/* Used to control the width and height for where the videos will be */
 .container {
   width: 94vw;
   margin: 1rem;
@@ -297,14 +331,11 @@ fieldset {
   display: flex;
 }
 
-.fixed {
-  position: fixed;
-}
-
 .block-label {
   display: block;
 }
 
+/* For headings in review section */
 legend {
   font-size: large;
   font-weight: 600;
@@ -312,10 +343,12 @@ legend {
   margin: 20px 0 10px 0;
 }
 
+/* For text in review section */
 label {
   margin: 10px 15px 5px 0;
 }
 
+/* For the submit button in the review section */
 input[type=submit] {
   margin-top: 1rem;
   margin-bottom: 1rem;
@@ -326,8 +359,13 @@ input[type=submit] {
   border-radius: 5px;
 }
 
+/* Miscellaneous */
 .text-uppercase {
   text-transform: uppercase;
+}
+
+.fixed {
+  position: fixed;
 }
 
 .background-blue {
