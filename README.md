@@ -1,6 +1,9 @@
 # History of the NBA
 
 History of the NBA is a website for people who are intrested in the NBA. This site specifically mentions the creation of basketball and the creation and rise of the NBA. It also has a section dedicated to people that have impacted the game of basketball.
+
+The live link can be found here - https://uloe-g.github.io/History-Of-NBA/
+
 ![History Of NBA mockup](assets/images/HONBA.png)
 
 ## Features
@@ -81,6 +84,16 @@ This section goes over the different parts of this project. An explaination will
 
 ![Footer](assets/images/footer.png)
 
+## Balsamiq Wireframes
+
+### Introduction page
+
+![First page](assets/images/page1.png)
+
+### Controversey page
+
+![Controversy page](assets/images/page2.png)
+
 ## Testing
 
 - I tested to see if the website would work on Google Chrome, Microsoft Edge, Firefox and using Chrome Dev Tools, simulated different device screen widths and lenghts.
@@ -94,7 +107,7 @@ This section goes over the different parts of this project. An explaination will
 ### Validator Testing
 
 - HTML
-  - No errors were found on all pages except for the video section on [(Jigsaw) validator](https://validator.w3.org/).
+  - No errors were found when passing through the official [(Jigsaw) validator](https://validator.w3.org/).
   
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator).
