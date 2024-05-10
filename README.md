@@ -84,13 +84,41 @@ This section goes over the different parts of this project. An explaination will
 
 ![Footer](assets/images/footer.png)
 
-## Balsamiq Wireframes
+## Design
 
-### Introduction page
+### Colors
+
+- The general layout colors were taking from the NBA logo. This was done since this is about the NBA the colors should match the subject.
+
+![General Color Layout](assets/images/colors.png)
+
+- The background color was that color because that is the color of the Springfield college logo which is where basketball was said to be invented.
+
+- In the controversey section each color was meant to highlight aspects surrounding the topic being mentioned.
+
+  - The red for Donald Sterling was done because the situation happened with the LA Clippers, which have red on their logo.
+
+  - The Grey for the dress code was done because of the suit in the image.
+
+  - The Blue for the gun incident was done because the player that caused it played for the washington wizards, which wear a blue jersey.
+
+- The same can be said for the peoples section. Each color represents something important.
+
+  - The Blue and Red for Adam silver is there because he the the comissioner of the NBA which colors have blue and red in them.
+
+  - The Purple and Gold for Lebron James is there because right now he plays for the LA Lakers which primary colors are purple and gold.
+
+  - The Black and Red for Micheal Jordan was done because those are colors on the Chigaco bulls. Red and white was also an option but the white did blend well with the background.
+
+  - Yellow and Blue was done for Steph Curry because he currently plays for the Golden State Warriors, which have a blue and yellow color to them.
+
+### Balsamiq Wireframes
+
+#### Introduction page
 
 ![First page](assets/images/page1.png)
 
-### Controversey page
+#### Controversey page
 
 ![Controversy page](assets/images/page2.png)
 
