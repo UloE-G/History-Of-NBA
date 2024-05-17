@@ -92,7 +92,9 @@ This section goes over the different parts of this project. An explaination will
 
 ![General Color Layout](assets/images/colors.png)
 
-- The background color was that color because that is the color of the Springfield college logo which is where basketball was said to be invented.
+- The background color is brown because that is the color of the Springfield college logo which is where basketball was said to be invented.
+
+![Background Color](assets/images/backgroundcolor.png)
 
 - In the controversey section each color was meant to highlight aspects surrounding the topic being mentioned.
 
@@ -101,6 +103,8 @@ This section goes over the different parts of this project. An explaination will
   - The Grey for the dress code was done because of the suit in the image.
 
   - The Blue for the gun incident was done because the player that caused it played for the washington wizards, which wear a blue jersey.
+
+![Controversy Colors](assets/images/controversycolors.png)
 
 - The same can be said for the peoples section. Each color represents something important.
 
@@ -111,6 +115,8 @@ This section goes over the different parts of this project. An explaination will
   - The Black and Red for Micheal Jordan was done because those are colors on the Chigaco bulls. Red and white was also an option but the white did blend well with the background.
 
   - Yellow and Blue was done for Steph Curry because he currently plays for the Golden State Warriors, which have a blue and yellow color to them.
+
+![People Colors](assets/images/peoplecolors.png)
 
 ### Balsamiq Wireframes
 
