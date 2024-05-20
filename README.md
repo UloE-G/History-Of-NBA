@@ -124,9 +124,26 @@ This section goes over the different parts of this project. An explaination will
 
 ![First page](assets/images/page1.png)
 
-#### Controversey page
+#### Controversey/people page
 
 ![Controversy page](assets/images/page2.png)
+
+#### Video Page
+
+![Video page](assets/images/video.png)
+
+#### Mobile introduction page
+
+![Mobile First page](assets/images/mobilepage1.png)
+
+
+#### Mobile controversy/people page
+
+![Mobile Controversy page](assets/images/mobilepage2.png)
+
+#### Mobile Video page
+
+![Mobile Video page](assets/images/mobilevideo.png)
 
 ## Testing
 
